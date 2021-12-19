@@ -6,6 +6,7 @@
 -   [ZSH install and configure](./geral/zsh-install-and-configure.md)
 -   [Packages importants](./geral/packages-importants.md)
 -   [Basic configurations](./geral/basic-configurations.md)
+-   [Install java with SDK](./geral/install-java-with-sdk.md)
 -   [Java JDK 11 install and condifure](./geral/java-jdk-11-install-and-configure.md)
 -   [Python 3.6 install](./geral/python-3.6-install.md)
 -   [NodeJS install with NVM](./geral/nodejs-install-with-nvm.md)
